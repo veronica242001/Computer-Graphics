@@ -1,0 +1,13 @@
+﻿  03_02_poligoane3d_exemplu2.cpp
+G:\Cursuri_FMI_an3\GraficaPeCalculator\lab3\lab3\03_02_poligoane3d_exemplu2.cpp(115,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp__glutMouseFunc@4 referenced in function _main
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+03_02_poligoane3d_exemplu2.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+G:\Cursuri_FMI_an3\GraficaPeCalculator\lab3\Debug\lab3.exe : fatal error LNK1120: 8 unresolved externals
